@@ -1,0 +1,13 @@
+/* UserLogin.css */
+
+.auth-form-container {
+    text-align: center;
+}
+
+.form-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Add more styles as needed */
